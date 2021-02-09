@@ -1,4 +1,3 @@
-# OaDM_Lab1
-Lab1 Optimization and decision making
+# Algorithms and Datastructures implementations
 
-You can find executable in the dist folder!
+Implementations using Python
